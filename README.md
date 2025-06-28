@@ -16,13 +16,13 @@ Predict patient medical costs and analyze key cost drivers (like BMI, smoking, a
 
 ---
 
-## 📊 **Interactive Dashboard**
+##  **Interactive Dashboard**
 Built an interactive Power BI report with:
 - **Overview page:** Key cost drivers and average charges.
 - **Regional Analysis page:** Average costs by region.
 - **Prediction vs Actual page:** Shows model performance and sample predictions.
 
-🔗 [View the published dashboard here]((https://app.powerbi.com/links/79K_RnWSuy?ctid=a8216c1e-4d63-4352-8c3b-50fa1f1475b1&pbi_source=linkShare))
+🔗  [ View the published dashboard here](https://app.powerbi.com/links/79K_RnWSuy?ctid=a8216c1e-4d63-4352-8c3b-50fa1f1475b1&pbi_source=linkShare)
 
 ---
 
